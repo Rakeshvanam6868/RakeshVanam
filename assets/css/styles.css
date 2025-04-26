@@ -4754,8 +4754,9 @@ List of Page Indexes
     width: 100%;
     height: 100%;
     object-fit: cover;
-    -webkit-mask-image: url("../images/sidebar/sidebar_hero-img1-mask.jpg");
-    mask-image: url("../images/sidebar/sidebar_hero-img1-mask.jpg");
+    -webkit-mask-image: url("../images/sidebar/profile.jpg");
+    /* assets/images/sidebar/Rakesh.jpeg */
+    mask-image: url("../images/sidebar/profile.jpg");
     -webkit-mask-size: cover;
     mask-size: cover;
     -webkit-mask-repeat: no-repeat;
