@@ -5569,8 +5569,8 @@ List of Page Indexes
     border-radius: 0.75rem;
     width: 100%;
     object-fit: cover;
-    -webkit-mask-image: url("../images/portfolio/portfolio-img_1-mask.png");
-    mask-image: url("../images/portfolio/portfolio-img_1-mask.png");
+    -webkit-mask-image: url("../images/portfolio/CaseCobra.png");
+    mask-image: url("../images/portfolio/CaseCobra.png");
     -webkit-mask-size: cover;
     mask-size: cover;
     -webkit-mask-repeat: no-repeat;
